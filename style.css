@@ -1,0 +1,37 @@
+.panda-carousel{
+    background-color: #fceae8;
+    border-radius: 15px;
+}
+.panda-button{
+    background-color: #ff297d;
+    color: white;
+    padding: 10px 25px;
+    border-radius: 10px;
+    border: none;
+}
+.panda-card-footer{
+    border: none;
+    background-color: #fff;
+}
+.panda-card-item{
+    border: none;
+}
+.doller-highlight{
+    color: #ff297d;
+}
+.panda-watch-bag-shoe{
+    border-radius: 10px;
+}
+.panda-watch-bag-shoe img{
+    width: 100px;
+}
+.submit-area{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
+.submit-area input {
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    width: 100%;
+    margin-bottom: 10px;
+}
